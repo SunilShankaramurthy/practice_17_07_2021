@@ -38,4 +38,4 @@
    2. TestNG default Report <br/>
       path : project.dir/target/surefire-reports/index.html
          
-# practice_17_07_2021
+# 
